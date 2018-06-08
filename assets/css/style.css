@@ -3,7 +3,8 @@
 }
 
 h1 {
-    font-family: cursive;
+    font-family: 'Pacifico', cursive;
+    color: #daa520;
     padding-top: 15px;
 }
 
